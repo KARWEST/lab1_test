@@ -4,4 +4,4 @@
 Это элемент выделения кода - `print("Hello World")`
 
 Картинка:
-![Картинка НПИ](https://www.npi-tu.ru/simai.data/image/meta/yurgpu04.jpg)
+![Картинка](https://myoctocat.com/assets/images/base-octocat.svg)
